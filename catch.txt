@@ -1,6 +1,8 @@
 Title
+
 [EB]
 Fat Joe
+[HS]
 ...
 Elavator Pitch
 [EB]
@@ -9,6 +11,8 @@ Instead of a man holding a basket to catch fruit, we have a happy man named Joe 
 Innovative! 
 ...
 30 second  gameplay description
+[HS]
+Use the arrow keys to move good old fat joe around the screen in order to catch the pieces of junk food falling from the screen above in order to increase his GIRTH. Avoid the fruit in order to reduce his life expectancy even further than ever. You can also collect a vacuum cleaner power-up in order to automatically collect all the pieces of food on screen at once without trying.
 ...
 Pillars
 [EB]
@@ -16,5 +20,7 @@ It's in a 2D environment with multiple backgrounds based on the level you're on.
 The objective of the game is to catch all of the junk food.
 ...
 Features
+[HS] 
+Features are the ability to move left and right on the screen in order to control fat Joe. The goal is to collect more and more food as time passes by in order to increase your score and make Joe fatter over time. Collecting fruits will make Joe skinnier and reduce the amount of points you have.
 
 ...
