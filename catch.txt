@@ -1,10 +1,20 @@
 Title
+[EB]
+Fat Joe
 ...
 Elavator Pitch
+[EB]
+This new innovative game is far different from any other catch game.
+Instead of a man holding a basket to catch fruit, we have a happy man named Joe who opens his mouth at a 90 degree radius and catches the food in his mouth.
+Innovative! 
 ...
 30 second  gameplay description
 ...
 Pillars
+[EB]
+It's in a 2D environment with multiple backgrounds based on the level you're on.
+The objective of the game is to catch all of the junk food.
 ...
 Features
+
 ...
